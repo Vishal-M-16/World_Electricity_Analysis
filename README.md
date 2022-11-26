@@ -11,4 +11,4 @@ Datasets are from world bank APIs in JSON and CSV formats.
 
 # Presentation
 
-[Click Here](https://docs.google.com/presentation/d/1yWYXqSdbZ_mpgGDcqidxVzUo8aKrUOQc/edit#slide=id.p16)
+[Click Here](https://docs.google.com/presentation/d/1yWYXqSdbZ_mpgGDcqidxVzUo8aKrUOQc/edit?usp=share_link&ouid=114123544859777896645&rtpof=true&sd=true)
